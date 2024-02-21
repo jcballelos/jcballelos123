@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" AIR JORDAN 1",
+        "price": 9999,
+        "image": "image/air.png"
+    },
+    {
+        "id": 2,
+        "name":" AIR JORDAN 2",
+        "price": 9250,
+        "image": "image/air2.png"
+    },
+    {
+        "id": 3,
+        "name":" BLAZER",
+        "price": 8290,
+        "image": "image/blazer.png"
+    },
+    {
+        "id": 4,
+        "name":" BLAZER 2 ",
+        "price": 8200,
+        "image": "image/blazer2.png"
+    },
+    {
+        "id": 5,
+        "name":" CRATER",
+        "price": 7300,
+        "image": "image/crater.png"
+    },
+    {
+        "id": 6,
+        "name":" CRATER 2",
+        "price": 6200,
+        "image": "image/crater2.png"
+    },
+    {
+        "id": 7,
+        "name":" HIPPIE 1",
+        "price": 7200,
+        "image": "image/hippie.png"
+    },
+    {
+        "id": 8,
+        "name":" HIPPIE 2",
+        "price": 7400,
+        "image": "image/hippie2.png"
+    }
+
+]
